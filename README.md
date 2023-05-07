@@ -1,7 +1,7 @@
 # Configure-Windows-Operating-System
 
 <h2>Description</h2>
-In this tutorial we will go through various configuration setups such as:<br />
+We will go through basic Windows OS configuration setups such as:<br />
 <br />
 
 - Encrypt a folder and its contents.
