@@ -61,8 +61,28 @@ Your screen should look similar to this:
 <br />
 <br />
 <h2>2- Add a user to the list of those who can access an encrypted file</h2>
-
-
+1) Hover over a desired encrypted file and <b>Right-click</b> before selecting <b>Properties</b>. In this example we will use a file named <b>Personnel Report.xlsx</b>.
+<br />
+<br />
+Your screen should look similar as follows:
+<br />
+<br />
+<img src="https://imgur.com/JV6GMav.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+2) Next click <b>Advanced</b>  and in the Advanced Attributes tab click <b>Details</b>. You should be presented with the following screen:
+<br />
+<br />
+<img src="https://imgur.com/5ZXR4pd.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+3) Click <b>Add</b> and select the desired user you would like to add to the authorised list of users and click <b>Ok</b>.
+<br />
+<br />
+<img src="https://imgur.com/GhWkzcR.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+4) Finally proceed by selecting <b>Ok</b> to exit each tab and confirm your changes.
 
 
 
