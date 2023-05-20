@@ -98,7 +98,7 @@ Your screen should look similar as follows:
 3) Select <b>Confirm</b> and Remote desktop will now be turned <b>On</b>
 <br />
 <br />
-<h2>3- Allow a user to connect to the computer using Remote Desktop. </h2>
+<h2>4- Allow a user to connect to the computer using Remote Desktop. </h2>
 1) In Remote Desktop select <b>Remote Desktop users</b>
 <br />
 <br />
@@ -114,7 +114,7 @@ Your screen should look similar as follows:
 3) Enter <b>Ok</b> to confirm changes.
 <br />
 <br />
-<h2>3- Allow Remote Assistance connections to this computer. </h2>
+<h2>5- Allow Remote Assistance connections to this computer. </h2>
 1)To allow Remote Assistance to your computer in the Settings app navigate to and click <b>About</b> located at the bottow of <b>System</b>
 <br />
 <br />
@@ -128,3 +128,39 @@ Your screen should look similar as follows:
 <br />
 <br />
 3) In the <b>Remote</b> tab select <b>Allow Remote Assistance connections to this computer</b> and click <b>Ok</b>.
+<br />
+<br />
+<h2>6- Prevent certain applications from running at system startup. </h2>
+1) Go to <b>Task Manager</b> either by right-clicking on <b>Start</b> and selecting Task Manager or by pressing <b>Ctrl+shift+Esc</b> on your keyboard. Select the <Startup</b> tab as follows :
+<br />
+<br />
+<img src="https://imgur.com/UONKbmM.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+2) From here select the Applications you would like to disable and click <b>Disable</b> at the bottow right. Make sure you have disables the App by looking under <b>Status</b>.
+<br />
+<br />
+<h2>7- Share a folder and make it available for all users to read through a network connection. </h2>
+1) Open <b>File Explorer</b> from the taskbar.
+<br />
+<br />
+2) In File Explorer navigate to <b>This PC</b> and locate a folder you would like to share in one of your available drives. In this example I will use the Software folder in the <b>Data (D:)</b> drive.
+<br />
+<br />
+<img src="https://imgur.com/d0ufdVn.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+3) Right-click your folder and enter Properties from which you will go to the Sharing tab as follows:
+<br />
+<br />
+<img src="https://imgur.com/jsrQ2bl.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+4) Now select <b>Share</b> inside which you will select <b>Everyone</b> from the drop down menu next to Add and click <b>Add</b>
+<br />
+<br />
+<img src="https://imgur.com/NjQc7SD.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+5) Under Administrators you should now see <b>Everyone</b> and you can customize the Permission Level on the right.
+6) Now select <b>Share</b> and then <b>Done</b>.
