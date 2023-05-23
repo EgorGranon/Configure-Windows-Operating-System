@@ -164,3 +164,34 @@ Your screen should look similar as follows:
 <br />
 5) Under Administrators you should now see <b>Everyone</b> and you can customize the Permission Level on the right.
 6) Now select <b>Share</b> and then <b>Done</b>.
+<br />
+<br />
+<h2>8- Increase security by implementing password requirements and account lockout policies. </h2>
+1)Search for <b>Local Security Policy</b> in the search field</b>
+<br />
+<br />
+2)In the Local Security Policy window expand <b>Account Policies</b> and then <b>Password Policy.</b> As follows:
+<br />
+<br />
+<img src="https://imgur.com/KULZBX2.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+3)Double-Click <b>Minimum Password Length</b> and set to desired length. In this example we will pick 10 and press <b>Ok</b>
+<br />
+<br />
+<img src="https://imgur.com/xhKbZ8q.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+4) Double-Click <b>Password must meet complexity requirements</b> and choose <b>Enable</b>
+<br />
+<br />
+<img src="https://imgur.com/Q9RKnJ4.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+5)Under Password Policy select <b>Account Lockout Policy</b>. Double-click <b>Account lockout threshold</b> and select the desired amount of failed attempts you would like to allow before activating the lockout.
+<br />
+<br />
+<img src="https://imgur.com/gXJcAdu.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+6) Select <b>Ok</b> and accept suggested value changes for duration and counter.
