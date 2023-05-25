@@ -195,3 +195,56 @@ Your screen should look similar as follows:
 <br />
 <br />
 6) Select <b>Ok</b> and accept suggested value changes for duration and counter.
+<br />
+<br />
+<h2>8- Force a user to change their password at the next logon. </h2>
+1)Select <b>Computer Management</b> by right-clicking start.
+<br />
+<br />
+2) Expand <b>Local Users and Groups.</b> and select <b>Users</b>
+<br />
+<br />
+<img src="https://imgur.com/PC4ESZb.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+3) Select the user you would like to apply the policy to by right clicking over them and selecting <b>Properties</b> (In this example we pick the user Ethan)
+<br />
+<br />
+4) Check the box for <b>User must change password at next logon</b>
+<br />
+<br />
+<img src="https://imgur.com/O9qPv6M.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+5) Select <b>Ok</b> and close Computer Management.
+<br />
+<br />
+<h2>10- Restore a file to a specific version. </h2>
+1)Open <b>File Explorer</b> from the task bar
+<br />
+<br />
+2)Select a file you would like to restore in a folder. In this example we will pick the Executive Brief.pptx in the presentations folder.
+<br />
+<br />
+3) Right click the file, select <b>Show more options.</b> and then select <b>Restore previous versions.</b>
+<br />
+<br />
+<img src="https://imgur.com/r0k9fI6.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+4)Select the desired version you would like to go back to and select <b>Restore</b> and <b>Replace the file in the destination</b>
+<br />
+<br />
+<h2>11- Configure compatibility settings for an application. </h2>
+1) To run a file in compatibilty mode right click on an executable file (.exe) and go into <b>Properties</b>
+<br />
+<br />
+2) Go into the compatibility tab and select <b>Run this program in compatibility mode for</b>
+<br />
+<br />
+<img src="https://imgur.com/effp7lX.png" height="65%" width="65%" alt=""/>
+<br />
+<br />
+3) Select the version of windows you would like to run with the program.
+4) Add any extra boxes in settings such as <b>Run this program as an administrator</b>
+5) Select <b>OK</b>
